@@ -8,7 +8,8 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/zhcg"
-  163music: "http://music.163.com/#/user/home?id=34544372"
+  #163music: "http://music.163.com/#/user/home?id=34544372"
+  rss: "http://music.163.com/#/user/home?id=34544372"
   #weibo: "#"
   #rss: "#"
   zhihu: "https://www.zhihu.com/people/zhcg/activities"
@@ -124,4 +125,4 @@ smart_menu:
 friends:
   友情链接1: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 简单的 默默的<br>某人
